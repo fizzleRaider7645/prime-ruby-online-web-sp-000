@@ -1,4 +1,4 @@
 def prime?(num)
   return false if num < 2
-  (2...num).none? { |dig| ]
+  (2...num).none? { |dig| }
 end
